@@ -3,15 +3,8 @@
 </div>
 
 <div align="center">
-  <sub>Tech Art · Shaders · Custom Tools · VFX</sub><br/>
-  <sub>Unity · Godot · Unreal</sub>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/ZhayaGT/ShaderSnap"><img src="https://img.shields.io/badge/ShaderSnap-8B5CF6?style=for-the-badge&logo=unity&logoColor=white&labelColor=15151C" alt="ShaderSnap"/></a>
-  <a href="https://github.com/ZhayaGT/Horror-Shader-Showcase"><img src="https://img.shields.io/badge/Horror_Shader_Showcase-8B5CF6?style=for-the-badge&logo=unity&logoColor=white&labelColor=15151C" alt="Horror Shader Showcase"/></a>
+  <a href="https://zhayagt.itch.io/"><img src="https://img.shields.io/badge/Play_my_games-itch.io-8B5CF6?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=15151C" alt="itch.io"/></a>
+  <a href="https://github.com/ZhayaGT?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=15151C" alt="Repositories"/></a>
   <a href="mailto:jonathanemmanuel0107@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=15151C" alt="Email"/></a>
 </div>
 
@@ -26,14 +19,69 @@
 Game developer focused on **tech art**. I write shaders, build custom editor tools, and set up VFX
 systems — the layer between the artist's intent and what the engine actually draws.
 
-- **Shader authoring** — Shader Graph and hand-written shaders: fullscreen post-processing, stylized
+- **Shader authoring** — Shader Graph and hand-written HLSL: fullscreen post-processing, stylized
   materials, AR overlays.
 - **Custom tools** — editor extensions and standalone utilities that remove repetitive work from a
   production pipeline.
 - **VFX & rendering** — reactive post-processing driven by gameplay state, not just static looks.
-- **Gameplay** — prototyping and shipping small Unity projects end to end.
+- **Gameplay** — designing and shipping small games end to end, from prototype to a playable build.
 
-## Featured work
+## Games
+
+Playable builds are published on **[zhayagt.itch.io](https://zhayagt.itch.io/)**.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Memorize IT](https://zhayagt.itch.io/memorize-it)
+Memory and observation game — remember the arrangement of a set of objects, then reproduce it.
+Full gameplay loop, menu flow, and audio.
+
+`Unity` `C#` `Released`
+
+</td>
+<td width="50%" valign="top">
+
+### [Vortex Velocity](https://zhayagt.itch.io/vortex-velocity)
+Drone racing game. Reach the finish line through obstacle courses while competing against other
+drones. WASD flight controls.
+
+`Unity` `C#` `Racing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Forest Adventure](https://zhayagt.itch.io/forest-adventure)
+Side-scrolling platformer built for the Politeknik Negeri Malang assignment track. Level
+progression, finish zones, and dissolve-based scene transitions.
+
+`Unity` `C#` `Platformer`
+
+</td>
+<td width="50%" valign="top">
+
+### [Gak Tamat = Skill Issue](https://zhayagt.itch.io/gak-tamat-skill-issue)
+Top-down shooter — WASD to move, space to fire. Built solo.
+
+`Unity` `C#` `Shooter`
+
+</td>
+</tr>
+</table>
+
+Other Unity projects live in the [repository list](https://github.com/ZhayaGT?tab=repositories):
+*The Statistic Adventure* (game paired with a fuzzy-logic simulation core), *Game Kartu 21*
+(blackjack), *Aku Telat!* (endless runner), and *KMIPN — Midnight Moderator* (team entry for
+GEMASTIK 2026).
+
+<div align="center">
+  <img src="assets/rule.svg" width="100%"/>
+</div>
+
+## Tech art & tools
 
 <table>
 <tr>
@@ -55,26 +103,6 @@ systems: screen warping for hallucination, heartbeat-reactive vignette, and othe
 tied to the character's psychological state.
 
 `Shader Graph` `URP` `Unity 6.3`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Gemastik 2026 Polinema](https://github.com/ZhayaGT/Gemastik-2026-Polinema)
-Unity project built for GEMASTIK 2026 with the Polinema team. Gameplay systems, cutscenes, and
-asset pipeline work.
-
-`C#` `Unity` `Team project`
-
-</td>
-<td width="50%" valign="top">
-
-### More on the profile
-Smaller prototypes and experiments — endless runners, AR tracing, card games, and graphics
-studies — live in the [repository list](https://github.com/ZhayaGT?tab=repositories).
-
-`Prototypes` `Experiments`
 
 </td>
 </tr>
